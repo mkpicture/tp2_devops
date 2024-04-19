@@ -41,4 +41,5 @@ def jeu_python(choix):
 
 
 jeu_python("oui")
-
+print("Jeu terminé")
+print("He almost took me phone")
